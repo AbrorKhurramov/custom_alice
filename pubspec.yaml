@@ -21,7 +21,7 @@ dependencies:
   open_filex: ^4.7.0
   sensors_plus: ^6.1.2
   share_plus: ^11.1.0
-  chopper: ^8.3.0
+  chopper: ^7.4.0
   collection: ^1.19.1
   url_launcher: ^6.3.2
 
